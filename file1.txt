@@ -5,3 +5,7 @@ exemplo ficheiro1
 
 
 alterei o ficheiro
+
+
+
+ALteracoes efetuadas no branch "novafeature"

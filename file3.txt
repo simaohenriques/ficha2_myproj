@@ -1,6 +1,10 @@
 exemplo ficheiro3
 
+<h2>Bebidas</h2>
 
-
-alterei o ficheiro
+<ul>
+   <li>coffee</li>
+   <li>Tea</li>
+   <li>Milk</li>
+</ul>
 
