@@ -1,6 +1,10 @@
-exemplo ficheiro3
+<h1>lista de coisas</h1>
 
+<h2>COmidas</h2>
 
-
-alterei o ficheiro
+<ul>
+  <li>bolos</li>
+  <li>tostas</li>
+  <li>sandes</li>
+ </ul>
 
