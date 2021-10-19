@@ -9,3 +9,5 @@ alterei o ficheiro
 
 
 ALteracoes efetuadas no branch "novafeature"
+
+"Alteracao no branch master"

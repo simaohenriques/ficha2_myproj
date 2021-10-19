@@ -1,0 +1,20 @@
+<h1>lista de coisas</h1>
+
+<<<<<<< HEAD
+<h2>Bebidas</h2>
+
+<ul>
+   <li>coffee</li>
+   <li>Tea</li>
+   <li>Milk</li>
+</ul>
+=======
+<h2>COmidas</h2>
+
+<ul>
+  <li>bolos</li>
+  <li>tostas</li>
+  <li>sandes</li>
+ </ul>
+>>>>>>> novafeature
+
