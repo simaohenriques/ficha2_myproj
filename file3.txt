@@ -1,4 +1,4 @@
-exemplo ficheiro3
+<h1>lista de coisas</h1>
 
 <h2>Bebidas</h2>
 
@@ -7,4 +7,12 @@ exemplo ficheiro3
    <li>Tea</li>
    <li>Milk</li>
 </ul>
+<h2>COmidas</h2>
+
+<ul>
+  <li>bolos</li>
+  <li>tostas</li>
+  <li>sandes</li>
+ </ul>
+novafeature
 
