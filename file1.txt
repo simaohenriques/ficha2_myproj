@@ -6,4 +6,12 @@ exemplo ficheiro1
 
 alterei o ficheiro
 
+HEAD
 Alteracao efetuadas no branch Novafeature
+
+
+
+ALteracoes efetuadas no branch "novafeature"
+
+"Alteracao no branch master"
+master
